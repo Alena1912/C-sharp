@@ -2,7 +2,7 @@
 // является ли число чётным (делится ли оно на два без остатка).
 
 Console.Write("Введите число: ");
-int num = Console.Read();
+int num = Convert.ToInt32(Console.ReadLine());
 
 if (num % 2 == 0)
 {
