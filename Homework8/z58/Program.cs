@@ -63,6 +63,6 @@ Console.WriteLine();
 int[,] arrayA = Array();
 PrintArray(arrayA);
 Console.WriteLine();
-Console.WriteLine("Сумма матриц: ");
+Console.WriteLine("Произведение матриц: ");
 PrintArray(SumMAtrix(array,arrayA));
 
